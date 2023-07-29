@@ -1,0 +1,2 @@
+numpy==1.25.1
+srl @ git+https://github.com/pocokhc/simple_distributed_rl@bd5551ef36cf63ff9ca710e0bf9e9e46889524c0
